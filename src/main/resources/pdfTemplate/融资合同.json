@@ -1,0 +1,25 @@
+{
+  "data": {
+    "rzCompanyName": "X公司",
+    "rzLegalPersonName": "张三",
+    "rzRegisteredAddress": "河南济源",
+    "rzBankUserName": "李四",
+    "rzBankAccount": "6221578458715477854",
+    "rzBankName": "工商银行",
+    "rzFax": "cz8744785478",
+    "rzSignDate": "2022年2月17日",
+    "rzLegalPersonPhone": "15287685478",
+    "zjCompanyName": "建设银行",
+    "zjLegalPersonName": "王五",
+    "zjRegisteredAddress": "河南郑州",
+    "zjLegalPersonPhone": "15236878987",
+    "zjFax": "cz785471258",
+    "zjSignDate": "2022年2月17日",
+    "upperFinanceAmount": "十六万",
+    "financeDateBegin": "2022年2月20日",
+    "financeDateEnd": "2024年2月20日",
+    "financeAmount": "160000",
+    "contractNo": "HT12541255788"
+  },
+  "title": "金易融-应收账款转让融资合同"
+}
